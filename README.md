@@ -1,2 +1,2 @@
-# class-30
-vanishing pigs and attaching birds to slingshot
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
